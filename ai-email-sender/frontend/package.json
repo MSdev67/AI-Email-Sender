@@ -1,0 +1,12 @@
+{
+  "name": "ai-email-sender-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for AI Email Sender",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vite": "^4.4.0"
+  }
+}

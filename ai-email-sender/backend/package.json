@@ -1,0 +1,25 @@
+{
+  "name": "ai-email-sender-backend",
+  "version": "1.0.0",
+  "description": "AI-powered email sender backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "nodemailer": "^6.10.1",
+    "openai": "^4.104.0"
+  },
+  "keywords": [
+    "email",
+    "ai",
+    "nodejs"
+  ],
+  "author": "Dev",
+  "license": "MIT"
+}
