@@ -1,9 +1,8 @@
-# AI Email Sender
+Features
+AI-Powered Email Generation: Uses OpenAI to create professional emails
 
-A full-stack application that uses AI to generate and send professional emails.
+Email Sending: Integrated with Gmail SMTP (or Ethereal for testing)
 
-## Setup
+Responsive UI: Clean, user-friendly interface
 
-1. Install dependencies:
-   ```bash
-   cd backend && npm install
+Error Handling: Comprehensive validation and error messages
